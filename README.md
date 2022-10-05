@@ -2,9 +2,8 @@
 Dynamic website for hosting educational content of a university department. The website was created with php and
 has 5 main pages: Home, Announcements, Contact, Documents and Homework. To enter it, users who are 
 registered as students or teachers must log in. Teachers, in addition to the browsing feature available for
-students, have the ability to add, edit and delete data. There is also an email contact form. The website database
-created in sql. The registered users on the website are two students and one teacher and their account details are 
-in the student2975.sql file.
+students, have the ability to add, edit and delete data. The registered users on the website are two students and one teacher and 
+their account details are in the student2975.sql file.
 
 Login page:
 ![Στιγμιότυπο οθόνης (480)](https://user-images.githubusercontent.com/32638807/193563535-478adbf2-b185-4ea3-8e94-2236059bc354.png)
